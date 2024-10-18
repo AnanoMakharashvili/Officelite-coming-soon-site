@@ -1,4 +1,4 @@
-const mainContainer = document.getElementById("main-container");
+const mainContainer = document.getElementById("main");
 const containerTwo = document.getElementById("container-two");
 const inputEmail = document.getElementById("email-address");
 const errorMessage = document.getElementById("error-message");

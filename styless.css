@@ -7,7 +7,7 @@
   font-family: Kumbh Sans;
 }
 
-.main-container {
+.main {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -391,7 +391,7 @@ button.submit-button:hover {
 }
 
 @media (min-width: 1024px) {
-  .main-container {
+  .main {
     gap: 20px;
     padding: 23px;
   }
